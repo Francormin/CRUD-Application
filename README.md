@@ -4,4 +4,4 @@
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3md2xtw76u0y1fr8polm.png" alt="CRUD Fullform" width="1280" height="720" loading="lazy">
 
-<p>CRUD is a type of mechanism that allows to create data, read data, edit it, and delete those data. In this case, I'm gonna make a Todo app, so I will have 4 options to create tasks, read tasks, update tasks, or delete tasks.</p>
+<p>CRUD is a type of mechanism that allows to create data, read data, edit it, and delete those data. In my case, I'm gonna make a Todo app, so I will have 4 options to create tasks, read tasks, update tasks, or delete tasks.</p>
