@@ -1,6 +1,6 @@
 <h1>CRUD Operations</h1>
 
-<h4>Learning and practicing some basics and fundamentals... In this case, how to do CRUD Operations in JavaScript by making a Todo App.</h4>
+<h4>Learning and practicing some basics and fundamentals... In this case, how to do CRUD Operations in JavaScript by making a To-Do App.</h4>
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3md2xtw76u0y1fr8polm.png" alt="CRUD Fullform" width="700" height="400">
 
